@@ -194,6 +194,18 @@ If this application were to be scaled for production, the following improvements
 
 These changes would ensure the application remains **secure, performant, and scalable** as user traffic grows.
 
+##  Screenshots
+
+###  Login Page
+![Login](frontend/src/screenshots/Login.png)
+
+### Register Page
+![Register](frontend/src/screenshots/Register.png)
+
+### Dashboard
+![Dashboard](frontend/src/screenshots/Dashboard.png)
+
+
 
 ## Author
 
